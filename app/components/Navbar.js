@@ -8,7 +8,7 @@ const Navbar = () => {
             alt="User"
             className="w-8 h-8 rounded-full"
           />
-          <span>Rahil Siddique</span>
+          <span>Tarun Sai</span>
         </div>
       </nav>
     );
